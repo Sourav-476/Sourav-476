@@ -1,7 +1,7 @@
 [![Masterhead](https://camo.githubusercontent.com/fbf24ea9d3eb1c62b1d9a7b93ea7c5608fd6d7bfc4f5d90a8d99adb2ea3429d4/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f4334443132415145536a37322d733567454b672f61727469636c652d636f7665725f696d6167652d736872696e6b5f3630305f323030302f302f313632363735333836373131303f653d3231343734383336343726763d6265746126743d4b6637594175775a74794347594c4e63682d4d676335654f432d376837754c5f646e424149677341465251)
 <h1 align="center">Hi 👋, I'm Sourav Singh</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="Coding" width="380" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
+<img align="right" alt="Coding" width="400" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourav-476&label=Profile%20views&color=0e75b6&style=flat" alt="sourav-476" /> </p>
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/contactsouravsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="contactsouravsingh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/contactsouravsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/contactsouravsingh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,17 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourav-476&show_icons=true&locale=en" alt="sourav-476" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourav-476&" alt="sourav-476" /></p>
-<!--
-**Sourav-476/Sourav-476** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
